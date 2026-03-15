@@ -1,4 +1,4 @@
-# ⭐ Portfólio Pessoal- HTML
+#  Portfólio Pessoal- HTML
 Este projeto consiste no desenvolvimento de um site de portfólio pessoal utilizando apenas HTML, criado como parte de uma atividade acadêmica da disciplina de Desenvolvimento Web. 
 O objetivo principal é aplicar os conceitos fundamentais da linguagem HTML, com foco em estrutura semântica, organização de conteúdo e boas práticas de marcação.
 
